@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Roboto:wght@300&display=swap');
+
+
+.table-striped{
+	font-family: sans-serif;
+	border: none;
+	width: 100%;
+}	
+
+.table-responsive{
+
+	margin-top: 52px;
+}
